@@ -1,0 +1,824 @@
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\ae__21.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:18
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	0.000	0	0	0.00000	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.826	65204	11290	119.97179	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\1p__21.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:19
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	0.000	0	0	0.00000	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.863	1088	229	2.00123	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\acetone__21.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:19
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.451	8309	4234	18.50742	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	0.000	0	0	0.00000	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\st 15.6_STD-0001_21.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:19
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.467	6297	1233	15.60000	Default	0.0000000	0.0000000	2.477369e-003	0.0000000
+2	etoh	5.861	7520	1612	15.60000	Default	0.0000000	0.0000000	2.074475e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\st 15.6_STD-0002_21.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:20
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.469	6018	1074	15.24720	Default	0.0000000	0.0000000	2.533396e-003	0.0000000
+2	etoh	5.863	7460	1411	15.53797	Default	0.0000000	0.0000000	2.082724e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\st 31.25_STD-0003_21.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:20
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.468	14057	2393	31.95220	Default	0.0000000	0.0000000	2.273077e-003	0.0000000
+2	etoh	5.862	16411	3206	31.75500	Default	0.0000000	0.0000000	1.935003e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\st 31.25_STD-0004_21.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:20
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.470	13883	2257	31.72573	Default	0.0000000	0.0000000	2.285147e-003	0.0000000
+2	etoh	5.863	16313	3024	31.64451	Default	0.0000000	0.0000000	1.939882e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\st 62.5_STD-0005_21.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:21
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.467	27267	4531	62.45418	Default	0.0000000	0.0000000	2.290506e-003	0.0000000
+2	etoh	5.861	32169	6049	62.47704	Default	0.0000000	0.0000000	1.942163e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\st 62.5_STD-0006_21.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:21
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.467	27469	4508	62.74006	Default	0.0000000	0.0000000	2.284061e-003	0.0000000
+2	etoh	5.861	32614	6073	63.00941	Default	0.0000000	0.0000000	1.931963e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\st 125_STD-0007_21.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:22
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.466	55702	9083	125.53555	Default	0.0000000	0.0000000	2.253685e-003	0.0000000
+2	etoh	5.860	66810	12431	125.95860	Default	0.0000000	0.0000000	1.885318e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\st 125_STD-0008_21.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:22
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.466	55766	9051	125.62412	Default	0.0000000	0.0000000	2.252704e-003	0.0000000
+2	etoh	5.861	66802	12361	125.94863	Default	0.0000000	0.0000000	1.885411e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\st 250_STD-0009_21.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:22
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.465	111824	18437	250.46960	Default	0.0000000	0.0000000	2.239860e-003	0.0000000
+2	etoh	5.859	135008	25508	251.10251	Default	0.0000000	0.0000000	1.859906e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\st 250_STD-0010_21.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:23
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.464	111317	18915	249.76108	Default	0.0000000	0.0000000	2.243699e-003	0.0000000
+2	etoh	5.859	134021	26169	249.96091	Default	0.0000000	0.0000000	1.865090e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\st 500_STD-0011_21.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:23
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.464	225555	38419	501.49060	Default	0.0000000	0.0000000	2.223367e-003	0.0000000
+2	etoh	5.859	272480	52559	501.99854	Default	0.0000000	0.0000000	1.842334e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\st 500_STD-0012_21.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:23
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.464	221122	36885	495.31065	Default	0.0000000	0.0000000	2.239986e-003	0.0000000
+2	etoh	5.860	267129	50961	495.82790	Default	0.0000000	0.0000000	1.856139e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\st 1000_STD-0013_21.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:24
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.462	453191	83936	1003.69999	Default	0.0000000	0.0000000	2.214739e-003	0.0000000
+2	etoh	5.857	549155	117586	1004.68887	Default	0.0000000	0.0000000	1.829517e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\st 1000_STD-0014_21.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:24
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.463	446458	75960	994.38004	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.859	540953	104660	995.32696	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\acetone__21.01.2019_2.gcd
+Output Date	23/01/2019
+Output Time	12:56:24
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.452	8306	4192	18.49915	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	0.000	0	0	0.00000	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\smg_UNK-0001_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:25
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.465	44248	7397	98.55151	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.860	47419	9062	87.24929	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\741 1 t0_UNK-0002_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:25
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.469	44406	7302	98.90425	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.863	48007	8850	88.33026	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\741 2 t0_UNK-0003_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:25
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.469	44093	7242	98.20639	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.862	48081	8848	88.46599	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\741 3 t0_UNK-0004_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:26
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.469	43212	7117	96.24483	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.863	46978	8729	86.43708	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\5439 1 t0_UNK-0005_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:26
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.469	43183	7197	96.17933	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.864	47275	8882	86.98349	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\5439 2 t0_UNK-0006_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:26
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.467	41035	8354	91.39622	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.861	45588	10428	83.87970	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\5439 3 t0_UNK-0007_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:27
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.469	43288	7260	96.41285	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.863	47407	8957	87.22730	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\acetone__22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:27
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.454	8531	4417	19.00098	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	0.000	0	0	0.00000	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\741 1 t1_UNK-0008_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:28
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.468	39356	7438	87.65551	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.862	58697	12756	107.99892	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\741 2 t1_UNK-0009_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:28
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.467	39118	8185	87.12601	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.861	67820	16164	124.78558	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\741 3 t1_UNK-0010_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:29
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.467	39730	8021	88.48993	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.861	52113	11860	95.88513	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\5439 1 t1_UNK-0011_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:29
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.464	38447	7261	85.63056	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.858	36501	7755	67.16026	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\5439 2 t1_UNK-0012_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:29
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.468	39413	7326	87.78235	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.862	29527	6116	54.32813	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\5439 3 t1_UNK-0013_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:30
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.468	39826	7430	88.70398	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.862	46058	9628	84.74448	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\acetone__22.01.2019_2.gcd
+Output Date	23/01/2019
+Output Time	12:56:30
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.454	8682	4459	19.33738	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	0.000	0	0	0.00000	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\741 1 t2_UNK-0014_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:31
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.468	37440	7837	83.38951	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.864	5885	1387	10.82813	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\741 2 t2_UNK-0015_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:31
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.471	38605	6910	85.98449	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	0.000	0	0	0.00000	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\741 3 t2_UNK-0016_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:32
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.469	38463	7252	85.66676	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.865	6093	1296	11.21021	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\5439 1 t2_UNK-0017_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:32
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.468	36329	6846	80.91452	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.863	3666	868	6.74596	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\5439 2 t2_UNK-0018_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:32
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.468	38722	7653	86.24345	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.864	4932	1047	9.07462	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\5439 3 t2_UNK-0019_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:33
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.468	37844	7949	84.28810	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.863	4205	957	7.73635	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\741 1 t3_UNK-0020_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:33
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.470	35684	7033	79.47881	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.864	27808	6233	51.16482	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\741 2 t3_UNK-0021_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:34
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.470	34124	6225	76.00423	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.864	15241	3164	28.04256	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\741 3 t3_UNK-0022_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:34
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.469	33916	6201	75.54038	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.864	23298	4834	42.86730	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\5439 1 t3_UNK-0023_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:35
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.468	32898	6298	73.27193	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.861	85541	18977	157.39041	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\5439 2 t3_UNK-0024_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:35
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.469	34621	6225	77.11041	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.862	112266	23149	206.56332	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\5439 3 t3_UNK-0025_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:35
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.469	35208	6330	78.41685	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.862	96045	19685	176.71795	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\acetone__22.01.2019_3.gcd
+Output Date	23/01/2019
+Output Time	12:56:36
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.454	8529	4324	18.99732	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	0.000	0	0	0.00000	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\741 1 t4_UNK-0026_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:36
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.467	33140	6588	73.81150	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.860	82760	18876	152.27460	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\741 2 t4_UNK-0027_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:37
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.467	34359	6648	76.52712	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.860	74080	16641	136.30435	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\741 3 t4_UNK-0028_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:37
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.469	34789	6395	77.48544	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.862	86909	18400	159.90747	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\5439 1 t4_UNK-0029_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:38
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.469	31795	5929	70.81603	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.861	202571	43505	372.72075	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\5439 2 t4_UNK-0030_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:38
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.469	34910	6759	77.75462	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.861	242489	55220	446.16708	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\5439 3 t4_UNK-0031_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:39
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.469	34887	6622	77.70238	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.860	217458	47953	400.11223	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\741 1 t5_UNK-0032_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:39
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.468	30546	6006	68.03467	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.860	213950	49069	393.65764	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\741 2 t5_UNK-0033_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:40
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.469	31709	5845	70.62406	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.861	193625	41699	356.26133	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\741 3 t5_UNK-0034_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:41
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.468	32395	6059	72.15258	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.860	234450	51224	431.37674	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\5439 1 t5_UNK-0035_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:41
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.469	29508	5722	65.72163	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.860	300504	67676	552.91180	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\5439 2 t5_UNK-0036_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:42
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.469	32529	6492	72.45120	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.860	356319	83686	655.61018	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\5439 3 t5_UNK-0037_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:42
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.468	32759	6919	72.96297	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.860	332616	81120	611.99714	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\acetone__22.01.2019_4.gcd
+Output Date	23/01/2019
+Output Time	12:56:43
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.455	8632	4554	19.22600	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	0.000	0	0	0.00000	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\741 1 t6_UNK-0038_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:43
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.466	28430	6406	63.32218	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.858	274939	72182	505.87332	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\741 2 t6_UNK-0039_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:43
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.467	30580	6849	68.10913	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.859	193486	50857	356.00546	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\741 3 t6_UNK-0040_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:44
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.468	30512	6855	67.95797	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.860	304094	80061	559.51889	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\5439 1 t6_UNK-0041_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:44
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.469	24554	5105	54.68915	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.860	242327	58129	445.86991	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\5439 2 t6_UNK-0042_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:45
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.454	18587	4215	41.39807	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.849	192389	48437	353.98631	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\5439 3 t6_UNK-0043_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:45
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.457	10528	3513	23.44858	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.850	95091	36033	174.96343	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\741 1 t7_UNK-0044_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:46
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.456	17944	5795	39.96669	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.849	167845	60351	308.82696	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\741 2 t7_UNK-0045_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:46
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.454	12304	2608	27.40336	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.849	67229	15664	123.69761	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\741 3 t7_UNK-0046_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:46
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.455	6727	1833	14.98190	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.850	64277	20855	118.26627	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\5439 1 t7_UNK-0047_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:47
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.460	21665	4987	48.25307	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.855	109121	27673	200.77758	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\5439 2 t7_UNK-0048_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:47
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.457	11909	2763	26.52385	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.852	97423	25728	179.25264	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\5439 3 t7_UNK-0049_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:48
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.456	4910	1867	10.93628	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.850	40656	16903	74.80596	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\st 500_STD-0015_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:48
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.466	229380	49902	510.88914	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.861	275124	70371	506.21417	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\st 250_STD-0016_22.01.2019_1.gcd
+Output Date	23/01/2019
+Output Time	12:56:49
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.467	114221	22365	254.40144	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	5.862	136542	30750	251.23118	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\acetone__22.01.2019_5.gcd
+Output Date	23/01/2019
+Output Time	12:56:49
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.456	8480	4376	18.88689	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	0.000	0	0	0.00000	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
+
+[Header]
+Data File Name	X:\DATA\PROJECTS\2017-2020-Yeastpec\2019-Bremen-samples\2019-01-21-Yeastpec-Bremen-GCFID\2019-01-21-Bremen\acetone__22.01.2019_6.gcd
+Output Date	23/01/2019
+Output Time	12:56:49
+
+[Compound Results (Ch1)]
+# of IDs	2
+ID#	Name	R.Time	Area	Height	Conc.	Curve	3rd	2nd	1st	Constant
+1	meoh	5.456	8595	4407	19.14342	Default	0.0000000	0.0000000	2.227265e-003	0.0000000
+2	etoh	0.000	0	0	0.00000	Default	0.0000000	0.0000000	1.839951e-003	0.0000000
