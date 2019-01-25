@@ -19,7 +19,7 @@
              sep = "\t", 
              col.names = unlist(str_split(flines[8], pattern = "\t"))) # the column names lines have one tab less than the data lines!
   
-  #names
+  #sample names
   names <- flines[grep("Data File Name", flines)] %>%
            # match word or dot or dash or space!, positive lookahead end of line
            str_extract(pattern = "([ \\w.-]+)(?=$)") %>%
