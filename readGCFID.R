@@ -3,7 +3,7 @@
 
  library(tidyverse)
 
- readGCFID <- function(asciifile, ncompounds) {
+ readGC <- function(asciifile, ncompounds) {
   flines <- readLines(asciifile)
   # first remove those tabs at the end #
   flines <- str_remove(flines, "\\t$")
