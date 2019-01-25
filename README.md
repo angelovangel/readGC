@@ -11,4 +11,5 @@ In your `R` session, source the `readGC.R` file like this:
 and then use the function:    
 `readGC(file, ncompunds)`.    
 The two arguments are `file` (path to file name, use quotes) and `ncompounds` (integer, number of compounds in the data). 
-A `tibble` with the data is returned and additional information is printed to the console. 
+A `tibble` with the data is returned and additional information is printed to the console. I have tested the script with GC-FID and with GS-MS data exported from the Shimadzu GC(MS)solution software (it is important that when exporting only the "Compound Quantitative Result" checkbox is selected). 
+
