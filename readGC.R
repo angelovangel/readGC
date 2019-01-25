@@ -9,12 +9,15 @@
   flines <- str_remove(flines, "\\t$")
   
   n <- as.integer(grep("[Header]", flines, fixed = TRUE) %>% length()) # number of runs 
+  cat(n, " samples were detected...", "\n")
+  
   skip <- seq(8, length.out = n, by = ncompounds + 9) # tell which lines are just before the data
   
   # subset data only, first get indices of data lines
-  dataidxs <- lapply(1:ncompounds, function(i) {x <- skip + i})
+  dataidxs <- lapply(1:ncompounds, function(i) {skip + i})
   # then make one vector of indices and use it to subset the lines
   dataidx <- c(do.call(rbind, dataidxs))
+  
   df <- read.table(text = flines[dataidx], 
              sep = "\t", 
              col.names = unlist(str_split(flines[8], pattern = "\t"))) # the column names lines have one tab less than the data lines!
@@ -31,7 +34,7 @@
     if(length(names) != nrow(df)) {
       stop("Wrong numbers of compounds or samples!")
     }
-  df[["sample"]] <- names
   
+  df[["sample"]] <- names
   return(as_tibble(df))
  }
