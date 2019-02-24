@@ -1,10 +1,24 @@
-#' read GC-Shimadzu
+#' readGC
 #' 
 #' Parser for Shimadzu GCsolution and GCMSsolution data
 #' 
-#' @
+#' @param asciifile A text file, exported from the Shimadzu GCsolution or GCMS solution. 
+#' Only the "Compound Quantitative Result" must be clicked when exporting.
+#' @param ncompounds Integer. Number of compounds, as defined in the compound table. Future versions will 
+#' detect this automatically.
+#' 
+#' @return A tibble containing all the information from the exported file.
+#' The \code{sample} variable contains sample names, generated from the file names (try to avoid spaces when naming the files).
+#' 
+#' @importFrom stringr str_extract str_remove str_split
+#' @importFrom dplyr as_tibble '%>%'
+#' @importFrom utils read.table
+#' 
+#' @author Ange Angelov
+#' 
+#' @export
 
- library(tidyverse)
+ #library(tidyverse)
 
  readGC <- function(asciifile, ncompounds) {
   flines <- readLines(asciifile)

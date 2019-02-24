@@ -1,12 +1,17 @@
 Package: readGC
-Title: What the Package Does (One Line, Title Case)
+Title: Parser for Shimadzu GCsolution and GCMSsolution batch data
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Angel",
+           family = "Angelov",
            role = c("aut", "cre"),
-           email = "first.last@example.com")
-Description: What the package does (one paragraph).
-License: What license it uses
+           email = "aangeloo@gmail.com")
+Description: Quantitative analysis on Shimadzu GC-FID or GC-MS can be exported asa text file. 
+    This text file contains information about the samples of the batch and about the measured compounds.
+    This package contains functions for reading these files and extracting the information as a dataframe.
+License: MIT
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.1.1.9000
+Depends: stringr,
+         dplyr
