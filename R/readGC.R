@@ -1,5 +1,8 @@
-### parse GC-FID ASCII file ###
-# complicated by the fact that data lines have a tab at the end of the line!!! #
+#' read GC-Shimadzu
+#' 
+#' Parser for Shimadzu GCsolution and GCMSsolution data
+#' 
+#' @
 
  library(tidyverse)
 
