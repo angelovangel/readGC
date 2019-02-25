@@ -15,7 +15,7 @@
 #' @importFrom dplyr as_tibble '%>%'
 #' @importFrom utils read.table
 #' 
-#' @author Ange Angelov
+#' @author Angel Angelov
 #' 
 #' @export
 
