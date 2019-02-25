@@ -4,10 +4,10 @@
 \alias{readGC}
 \title{readGC}
 \usage{
-readGC(asciifile, ncompounds)
+readGC(file, ncompounds)
 }
 \arguments{
-\item{asciifile}{A text file, exported from the Shimadzu GCsolution or GCMS solution. 
+\item{file}{A text file, exported from the Shimadzu GCsolution or GCMS solution. 
 Only the "Compound Quantitative Result" must be clicked when exporting.}
 
 \item{ncompounds}{Integer. Number of compounds, as defined in the compound table. Future versions will 
@@ -15,7 +15,8 @@ detect this automatically.}
 }
 \value{
 A tibble containing all the information from the exported file.
-The \code{sample} variable contains sample names, generated from the file names (try to avoid spaces when naming the files).
+The \code{sample} variable contains sample names, generated from the file names 
+(matches word/dot/dash/space from the end of file name and removes the .gcd or .qgd extension).
 }
 \description{
 Parser for Shimadzu GCsolution and GCMSsolution data

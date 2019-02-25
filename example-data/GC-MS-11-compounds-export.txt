@@ -1,0 +1,320 @@
+[Header]
+Data File Name	E:\PROJECTS\2014-2017-FNR\FNR-Results\2016-caveolin-expression\170118-mlut-cav1-olefins-GCMS\UNK-0002_opeA_18.01.2017_olefins-1-split-10_2.qgd
+Output Date	19/01/2017
+Output Time	16:24:25
+
+[MS Quantitative Results]
+# of IDs	11
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold
+1	C25isoai	Target	0	TIC	16.134	16.100	16.163	1.780	53412	30006	0.65719	Auto	6	16.133	Default	0	0	0	0	0	0	10.07	10.07	0.00	99	57.00	0	0	10.07	10.07	70.00	0	0	9.61	9.61	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		9.03	ppm		0.00000
+2	C25aiai	Target	0	TIC	16.195	16.163	16.237	1.810	293950	162848	3.61680	Auto	17	16.197	Default	0	0	0	0	0	0	14.25	14.26	0.00	99	70.00	0	0	14.25	14.26	57.00	0	0	9.88	9.88	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		49.01	ppm		0.00000
+3	C26isoai	Target	0	TIC	16.716	16.680	16.747	1.580	161243	101908	1.98395	Auto	26	16.717	Default	0	0	0	0	0	0	10.54	10.57	0.00	99	57.00	0	0	10.54	10.57	70.00	0	0	9.48	9.48	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		91.41	ppm		0.00000
+4	C27isoiso	Target	0	TIC	17.310	17.277	17.353	1.600	110264	68873	1.35670	Auto	33	17.310	Default	0	0	0	0	0	0	11.84	11.80	0.00	99	57.00	0	0	11.84	11.80	56.00	0	0	7.62	7.59	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		61.78	ppm		0.00000
+5	C27isoai	Target	0	TIC	17.396	17.360	17.437	1.760	262916	149459	3.23495	Auto	44	17.397	Default	0	0	0	0	0	0	9.92	9.92	0.00	99	57.00	0	0	9.92	9.92	70.00	0	0	9.73	9.73	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		134.06	ppm		0.00000
+6	C27aiai	Target	0	TIC	17.482	17.437	17.810	1.830	1465793	801345	18.03529	Auto	55	17.483	Default	0	0	0	0	0	0	13.16	13.16	0.00	99	70.00	0	0	13.16	13.16	57.00	0	0	9.88	9.86	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		718.80	ppm		0.00000
+7	C28isoiso	Target	0	TIC	18.095	18.060	18.127	1.960	51739	26383	0.63660	Auto	67	18.093	Default	0	0	0	0	0	0	9.50	9.76	0.00	96	57.00	0	0	9.50	9.76	56.00	0	0	6.13	6.08	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		23.34	ppm		0.00000
+8	C28isoai	Target	0	TIC	18.197	18.127	18.257	2.030	495956	243883	6.10230	Auto	77	18.197	Default	0	0	0	0	0	0	10.38	10.40	0.00	99	57.00	0	0	10.38	10.40	70.00	0	0	9.14	9.15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		215.72	ppm		0.00000
+9	C29isoai	Target	0	TIC	19.165	19.080	19.227	2.380	551001	231501	6.77958	Auto	87	19.167	Default	0	0	0	0	0	0	10.31	10.12	0.00	98	57.00	0	0	10.31	10.12	70.00	0	0	9.05	9.09	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		210.20	ppm		0.00000
+10	C29aiai	Target	0	TIC	19.299	19.227	19.417	2.550	3502708	1375660	43.09773	Auto	98	19.300	Default	0	0	0	0	0	0	11.88	11.89	0.00	99	70.00	0	0	11.88	11.89	57.00	0	0	9.97	9.97	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1307.21	ppm		0.00000
+11	C30	Target	0	TIC	21.678	21.600	21.773	3.360	1178379	350351	14.49891	Auto	106	21.677	Default	0	0	0	0	0	0	18.80	18.80	0.00	99	57.00	0	0	18.80	18.80	71.00	0	0	13.94	13.94	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		391.80	ppm		0.00000
+
+[Header]
+Data File Name	E:\PROJECTS\2014-2017-FNR\FNR-Results\2016-caveolin-expression\170118-mlut-cav1-olefins-GCMS\UNK-0003_opeB_18.01.2017_olefins-1-split-10_3.qgd
+Output Date	19/01/2017
+Output Time	16:24:35
+
+[MS Quantitative Results]
+# of IDs	11
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold
+1	C25isoai	Target	0	TIC	16.135	16.103	16.163	1.850	69848	37756	0.63238	Auto	6	16.133	Default	0	0	0	0	0	0	10.07	9.61	0.00	94	57.00	0	0	10.07	9.61	70.00	0	0	9.61	9.04	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		10.30	ppm		0.00000
+2	C25aiai	Target	0	TIC	16.195	16.163	16.240	1.920	361708	188287	3.27478	Auto	16	16.197	Default	0	0	0	0	0	0	14.25	14.05	0.00	98	70.00	0	0	14.25	14.05	57.00	0	0	9.88	9.56	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		51.39	ppm		0.00000
+3	C26isoai	Target	0	TIC	16.715	16.683	16.757	1.480	194420	131716	1.76021	Auto	25	16.717	Default	0	0	0	0	0	0	10.54	10.00	0.00	97	57.00	0	0	10.54	10.00	70.00	0	0	9.48	10.01	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		128.60	ppm		0.00000
+4	C27isoiso	Target	0	TIC	17.310	17.273	17.347	1.670	140741	84035	1.27422	Auto	33	17.310	Default	0	0	0	0	0	0	11.84	12.06	0.00	97	57.00	0	0	11.84	12.06	56.00	0	0	7.62	7.69	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		82.05	ppm		0.00000
+5	C27isoai	Target	0	TIC	17.397	17.353	17.433	1.730	331260	191193	2.99911	Auto	44	17.397	Default	0	0	0	0	0	0	9.92	10.29	0.00	97	57.00	0	0	9.92	10.29	70.00	0	0	9.73	10.04	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		186.67	ppm		0.00000
+6	C27aiai	Target	0	TIC	17.483	17.433	17.543	1.900	1773045	933135	16.05254	Auto	55	17.483	Default	0	0	0	0	0	0	13.16	12.98	0.00	98	70.00	0	0	13.16	12.98	57.00	0	0	9.88	9.65	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		911.06	ppm		0.00000
+7	C28isoiso	Target	0	TIC	18.095	18.050	18.130	2.040	71037	34779	0.64314	Auto	68	18.093	Default	0	0	0	0	0	0	9.50	10.31	0.00	92	57.00	0	0	9.50	10.31	56.00	0	0	6.13	6.66	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		29.32	ppm		0.00000
+8	C28isoai	Target	0	TIC	18.196	18.130	18.250	2.020	666860	330418	6.03752	Auto	78	18.197	Default	0	0	0	0	0	0	10.38	10.22	0.00	98	57.00	0	0	10.38	10.22	70.00	0	0	9.14	9.14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		278.52	ppm		0.00000
+9	C29isoai	Target	0	TIC	19.168	19.100	19.233	2.440	886122	363681	8.02264	Auto	88	19.167	Default	0	0	0	0	0	0	10.31	10.29	0.00	98	57.00	0	0	10.31	10.29	70.00	0	0	9.05	9.12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		326.71	ppm		0.00000
+10	C29aiai	Target	0	TIC	19.301	19.233	19.613	2.530	5183657	2051019	46.93105	Auto	99	19.300	Default	0	0	0	0	0	0	11.88	11.96	0.00	99	70.00	0	0	11.88	11.96	57.00	0	0	9.97	9.60	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2859.00	ppm		0.00000
+11	C30	Target	0	TIC	21.674	21.553	22.657	3.500	1366564	390511	12.37240	Auto	103	21.677	Default	0	0	0	0	0	0	18.80	18.20	0.00	98	57.00	0	0	18.80	18.20	71.00	0	0	13.94	13.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		507.20	ppm		0.00000
+
+[Header]
+Data File Name	E:\PROJECTS\2014-2017-FNR\FNR-Results\2016-caveolin-expression\170118-mlut-cav1-olefins-GCMS\UNK-0004_opeC_18.01.2017_olefins-1-split-10_4.qgd
+Output Date	19/01/2017
+Output Time	16:24:45
+
+[MS Quantitative Results]
+# of IDs	11
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold
+1	C25isoai	Target	0	TIC	16.134	16.103	16.163	1.800	69125	38348	0.61941	Auto	4	16.133	Default	0	0	0	0	0	0	10.07	9.25	0.00	93	57.00	0	0	10.07	9.25	70.00	0	0	9.61	9.81	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		8.65	ppm		0.00000
+2	C25aiai	Target	0	TIC	16.194	16.163	16.283	1.970	390687	198622	3.50085	Auto	15	16.197	Default	0	0	0	0	0	0	14.25	13.69	0.00	98	70.00	0	0	14.25	13.69	57.00	0	0	9.88	9.61	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		44.82	ppm		0.00000
+3	C26isoai	Target	0	TIC	16.715	16.673	16.770	1.550	220153	142448	1.97274	Auto	26	16.717	Default	0	0	0	0	0	0	10.54	10.25	0.00	97	57.00	0	0	10.54	10.25	70.00	0	0	9.48	9.85	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		122.89	ppm		0.00000
+4	C27isoiso	Target	0	TIC	17.308	17.273	17.347	1.690	152914	90492	1.37022	Auto	35	17.310	Default	0	0	0	0	0	0	11.84	11.69	0.00	96	57.00	0	0	11.84	11.69	56.00	0	0	7.62	7.69	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		78.07	ppm		0.00000
+5	C27isoai	Target	0	TIC	17.395	17.347	17.433	1.740	348679	200210	3.12443	Auto	46	17.397	Default	0	0	0	0	0	0	9.92	10.01	0.00	97	57.00	0	0	9.92	10.01	70.00	0	0	9.73	9.71	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		172.72	ppm		0.00000
+6	C27aiai	Target	0	TIC	17.482	17.433	17.627	1.880	1792559	952016	16.06268	Auto	56	17.483	Default	0	0	0	0	0	0	13.16	13.23	0.00	98	70.00	0	0	13.16	13.23	57.00	0	0	9.88	9.57	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		821.31	ppm		0.00000
+7	C28isoiso	Target	0	TIC	18.093	18.057	18.127	1.900	70925	37265	0.63554	Auto	66	18.093	Default	0	0	0	0	0	0	9.50	11.82	0.00	90	57.00	0	0	9.50	11.82	56.00	0	0	6.13	7.07	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		19.65	ppm		0.00000
+8	C28isoai	Target	0	TIC	18.196	18.127	18.270	2.020	695845	345256	6.23530	Auto	77	18.197	Default	0	0	0	0	0	0	10.38	10.17	0.00	99	57.00	0	0	10.38	10.17	70.00	0	0	9.14	9.01	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		182.03	ppm		0.00000
+9	C29isoai	Target	0	TIC	19.168	19.110	19.230	2.400	861293	358839	7.71783	Auto	86	19.167	Default	0	0	0	0	0	0	10.31	10.70	0.00	98	57.00	0	0	10.31	10.70	70.00	0	0	9.05	8.91	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		300.83	ppm		0.00000
+10	C29aiai	Target	0	TIC	19.300	19.230	19.650	2.540	5045896	1983331	45.21503	Auto	96	19.300	Default	0	0	0	0	0	0	11.88	11.69	0.00	99	70.00	0	0	11.88	11.69	57.00	0	0	9.97	9.59	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1924.45	ppm		0.00000
+11	C30	Target	0	TIC	21.674	21.590	21.980	3.530	1511700	428125	13.54597	Auto	104	21.677	Default	0	0	0	0	0	0	18.80	18.04	0.00	98	57.00	0	0	18.80	18.04	71.00	0	0	13.94	14.15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		494.37	ppm		0.00000
+
+[Header]
+Data File Name	E:\PROJECTS\2014-2017-FNR\FNR-Results\2016-caveolin-expression\170118-mlut-cav1-olefins-GCMS\UNK-0005_opeD_18.01.2017_olefins-1-split-10_5.qgd
+Output Date	19/01/2017
+Output Time	16:24:54
+
+[MS Quantitative Results]
+# of IDs	11
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold
+1	C25isoai	Target	0	TIC	16.131	16.097	16.163	1.840	90561	49253	0.70631	Auto	5	16.133	Default	0	0	0	0	0	0	10.07	9.64	0.00	94	57.00	0	0	10.07	9.64	70.00	0	0	9.61	9.35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		9.02	ppm		0.00000
+2	C25aiai	Target	0	TIC	16.194	16.163	16.493	1.960	486212	247668	3.79210	Auto	16	16.197	Default	0	0	0	0	0	0	14.25	13.79	0.00	98	70.00	0	0	14.25	13.79	57.00	0	0	9.88	9.59	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		45.34	ppm		0.00000
+3	C26isoai	Target	0	TIC	16.715	16.670	16.753	1.470	244853	166214	1.90967	Auto	25	16.717	Default	0	0	0	0	0	0	10.54	9.95	0.00	97	57.00	0	0	10.54	9.95	70.00	0	0	9.48	9.93	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		79.97	ppm		0.00000
+4	C27isoiso	Target	0	TIC	17.307	17.270	17.340	1.630	167334	102471	1.30508	Auto	33	17.310	Default	0	0	0	0	0	0	11.84	12.20	0.00	97	57.00	0	0	11.84	12.20	56.00	0	0	7.62	7.88	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		49.30	ppm		0.00000
+5	C27isoai	Target	0	TIC	17.394	17.340	17.437	1.800	414427	230105	3.23223	Auto	44	17.397	Default	0	0	0	0	0	0	9.92	10.05	0.00	97	57.00	0	0	9.92	10.05	70.00	0	0	9.73	9.60	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		110.71	ppm		0.00000
+6	C27aiai	Target	0	TIC	17.480	17.437	17.547	1.840	2128246	1156928	16.59876	Auto	55	17.483	Default	0	0	0	0	0	0	13.16	12.81	0.00	98	70.00	0	0	13.16	12.81	57.00	0	0	9.88	9.66	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		556.63	ppm		0.00000
+7	C28isoiso	Target	0	TIC	18.092	18.053	18.133	2.140	91723	42939	0.71537	Auto	67	18.093	Default	0	0	0	0	0	0	9.50	11.03	0.00	92	57.00	0	0	9.50	11.03	56.00	0	0	6.13	6.79	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		22.08	ppm		0.00000
+8	C28isoai	Target	0	TIC	18.195	18.133	18.270	2.120	796908	375125	6.21530	Auto	78	18.197	Default	0	0	0	0	0	0	10.38	10.24	0.00	98	57.00	0	0	10.38	10.24	70.00	0	0	9.14	9.14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		192.91	ppm		0.00000
+9	C29isoai	Target	0	TIC	19.166	19.110	19.230	2.380	1000632	419682	7.80420	Auto	85	19.167	Default	0	0	0	0	0	0	10.31	10.27	0.00	98	57.00	0	0	10.31	10.27	70.00	0	0	9.05	8.92	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		441.77	ppm		0.00000
+10	C29aiai	Target	0	TIC	19.300	19.230	19.523	2.500	5835888	2337426	45.51565	Auto	95	19.300	Default	0	0	0	0	0	0	11.88	12.03	0.00	99	70.00	0	0	11.88	12.03	57.00	0	0	9.97	9.16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2664.79	ppm		0.00000
+11	C30	Target	0	TIC	21.673	21.593	21.927	3.520	1564934	444949	12.20534	Auto	106	21.677	Default	0	0	0	0	0	0	18.80	18.03	0.00	98	57.00	0	0	18.80	18.03	71.00	0	0	13.94	13.88	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		534.26	ppm		0.00000
+
+[Header]
+Data File Name	E:\PROJECTS\2014-2017-FNR\FNR-Results\2016-caveolin-expression\170118-mlut-cav1-olefins-GCMS\UNK-0007_cavA_18.01.2017_olefins-1-split-10_7.qgd
+Output Date	19/01/2017
+Output Time	16:25:03
+
+[MS Quantitative Results]
+# of IDs	11
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold
+1	C25isoai	Target	0	TIC	16.135	16.103	16.163	1.900	68176	35836	0.68732	Auto	5	16.133	Default	0	0	0	0	0	0	10.07	9.08	0.00	93	57.00	0	0	10.07	9.08	70.00	0	0	9.61	9.76	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		10.40	ppm		0.00000
+2	C25aiai	Target	0	TIC	16.195	16.163	16.240	1.950	312342	160214	3.14889	Auto	14	16.197	Default	0	0	0	0	0	0	14.25	14.11	0.00	98	70.00	0	0	14.25	14.11	57.00	0	0	9.88	9.41	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		46.48	ppm		0.00000
+3	C26isoai	Target	0	TIC	16.716	16.687	16.750	1.410	177306	125631	1.78752	Auto	26	16.717	Default	0	0	0	0	0	0	10.54	10.38	0.00	97	57.00	0	0	10.54	10.38	70.00	0	0	9.48	9.47	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		117.84	ppm		0.00000
+4	C27isoiso	Target	0	TIC	17.308	17.270	17.347	1.720	122317	71286	1.23314	Auto	36	17.310	Default	0	0	0	0	0	0	11.84	12.22	0.00	97	57.00	0	0	11.84	12.22	56.00	0	0	7.62	7.22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		66.86	ppm		0.00000
+5	C27isoai	Target	0	TIC	17.396	17.347	17.437	1.780	333222	187145	3.35939	Auto	47	17.397	Default	0	0	0	0	0	0	9.92	10.65	0.00	97	57.00	0	0	9.92	10.65	70.00	0	0	9.73	9.73	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		175.54	ppm		0.00000
+6	C27aiai	Target	0	TIC	17.482	17.437	17.623	1.820	1559435	858033	15.72152	Auto	58	17.483	Default	0	0	0	0	0	0	13.16	12.84	0.00	98	70.00	0	0	13.16	12.84	57.00	0	0	9.88	9.78	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		804.82	ppm		0.00000
+7	C28isoiso	Target	0	TIC	18.093	18.063	18.130	1.790	52244	29110	0.52670	Auto	66	18.093	Default	0	0	0	0	0	0	9.50	10.66	0.00	91	57.00	0	0	9.50	10.66	56.00	0	0	6.13	7.42	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		20.11	ppm		0.00000
+8	C28isoai	Target	0	TIC	18.197	18.130	18.270	2.060	586221	284375	5.91001	Auto	77	18.197	Default	0	0	0	0	0	0	10.38	10.74	0.00	98	57.00	0	0	10.38	10.74	70.00	0	0	9.14	8.97	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		196.53	ppm		0.00000
+9	C29isoai	Target	0	TIC	19.168	19.080	19.230	2.420	805423	333067	8.11991	Auto	86	19.167	Default	0	0	0	0	0	0	10.31	10.08	0.00	98	57.00	0	0	10.31	10.08	70.00	0	0	9.05	9.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		278.15	ppm		0.00000
+10	C29aiai	Target	0	TIC	19.300	19.230	19.403	2.470	4514827	1824418	45.51644	Auto	97	19.300	Default	0	0	0	0	0	0	11.88	12.10	0.00	99	70.00	0	0	11.88	12.10	57.00	0	0	9.97	9.61	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1917.48	ppm		0.00000
+11	C30	Target	0	TIC	21.675	21.593	22.653	3.570	1387600	388896	13.98915	Auto	105	21.677	Default	0	0	0	0	0	0	18.80	18.66	0.00	98	57.00	0	0	18.80	18.66	71.00	0	0	13.94	13.68	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		579.89	ppm		0.00000
+
+[Header]
+Data File Name	E:\PROJECTS\2014-2017-FNR\FNR-Results\2016-caveolin-expression\170118-mlut-cav1-olefins-GCMS\UNK-0008_cavB_18.01.2017_olefins-1-split-10_8.qgd
+Output Date	19/01/2017
+Output Time	16:25:10
+
+[MS Quantitative Results]
+# of IDs	11
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold
+1	C25isoai	Target	0	TIC	16.134	16.097	16.163	1.940	73723	37999	0.76831	Auto	5	16.133	Default	0	0	0	0	0	0	10.07	9.36	0.00	92	57.00	0	0	10.07	9.36	70.00	0	0	9.61	9.49	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		10.62	ppm		0.00000
+2	C25aiai	Target	0	TIC	16.195	16.163	16.257	1.850	335174	180909	3.49304	Auto	16	16.197	Default	0	0	0	0	0	0	14.25	13.83	0.00	98	70.00	0	0	14.25	13.83	57.00	0	0	9.88	9.30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		50.57	ppm		0.00000
+3	C26isoai	Target	0	TIC	16.715	16.660	16.747	1.510	189194	125560	1.97170	Auto	25	16.717	Default	0	0	0	0	0	0	10.54	9.96	0.00	97	57.00	0	0	10.54	9.96	70.00	0	0	9.48	10.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		106.17	ppm		0.00000
+4	C27isoiso	Target	0	TIC	17.309	17.280	17.347	1.680	108737	64788	1.13321	Auto	34	17.310	Default	0	0	0	0	0	0	11.84	11.90	0.00	96	57.00	0	0	11.84	11.90	56.00	0	0	7.62	8.57	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		54.78	ppm		0.00000
+5	C27isoai	Target	0	TIC	17.395	17.347	17.440	1.770	342022	192808	3.56441	Auto	45	17.397	Default	0	0	0	0	0	0	9.92	10.45	0.00	97	57.00	0	0	9.92	10.45	70.00	0	0	9.73	9.56	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		163.04	ppm		0.00000
+6	C27aiai	Target	0	TIC	17.481	17.440	17.553	1.850	1625371	880179	16.93891	Auto	56	17.483	Default	0	0	0	0	0	0	13.16	13.06	0.00	98	70.00	0	0	13.16	13.06	57.00	0	0	9.88	9.48	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		744.27	ppm		0.00000
+7	C28isoiso	Target	0	TIC	18.091	18.057	18.133	2.080	53049	25565	0.55285	Auto	66	18.093	Default	0	0	0	0	0	0	9.50	11.31	0.00	89	57.00	0	0	9.50	11.31	56.00	0	0	6.13	7.41	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		20.08	ppm		0.00000
+8	C28isoai	Target	0	TIC	18.196	18.133	18.253	2.010	557096	277029	5.80581	Auto	76	18.197	Default	0	0	0	0	0	0	10.38	10.24	0.00	98	57.00	0	0	10.38	10.24	70.00	0	0	9.14	9.14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		217.55	ppm		0.00000
+9	C29isoai	Target	0	TIC	19.165	19.113	19.217	2.380	720472	302451	7.50845	Auto	86	19.167	Default	0	0	0	0	0	0	10.31	10.37	0.00	98	57.00	0	0	10.31	10.37	70.00	0	0	9.05	9.24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		272.39	ppm		0.00000
+10	C29aiai	Target	0	TIC	19.296	19.217	19.510	2.530	4117633	1625770	42.91219	Auto	97	19.300	Default	0	0	0	0	0	0	11.88	11.83	0.00	99	70.00	0	0	11.88	11.83	57.00	0	0	9.97	9.42	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1572.72	ppm		0.00000
+11	C30	Target	0	TIC	21.666	21.593	21.880	3.510	1473014	419910	15.35112	Auto	108	21.677	Default	0	0	0	0	0	0	18.80	18.15	0.00	98	57.00	0	0	18.80	18.15	71.00	0	0	13.94	13.91	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		649.71	ppm		0.00000
+
+[Header]
+Data File Name	E:\PROJECTS\2014-2017-FNR\FNR-Results\2016-caveolin-expression\170118-mlut-cav1-olefins-GCMS\UNK-0009_cavC_18.01.2017_olefins-1-split-10_9.qgd
+Output Date	19/01/2017
+Output Time	16:25:17
+
+[MS Quantitative Results]
+# of IDs	11
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold
+1	C25isoai	Target	0	TIC	16.134	16.097	16.163	1.980	85149	42935	0.78350	Auto	5	16.133	Default	0	0	0	0	0	0	10.07	10.13	0.00	95	57.00	0	0	10.07	10.13	70.00	0	0	9.61	9.14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		9.54	ppm		0.00000
+2	C25aiai	Target	0	TIC	16.196	16.163	16.243	1.980	405485	204288	3.73110	Auto	16	16.197	Default	0	0	0	0	0	0	14.25	14.02	0.00	98	70.00	0	0	14.25	14.02	57.00	0	0	9.88	9.29	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		45.41	ppm		0.00000
+3	C26isoai	Target	0	TIC	16.715	16.683	16.753	1.460	219784	150242	2.02236	Auto	25	16.717	Default	0	0	0	0	0	0	10.54	9.97	0.00	98	57.00	0	0	10.54	9.97	70.00	0	0	9.48	10.14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		169.89	ppm		0.00000
+4	C27isoiso	Target	0	TIC	17.310	17.277	17.343	1.570	124536	79215	1.14593	Auto	34	17.310	Default	0	0	0	0	0	0	11.84	11.75	0.00	97	57.00	0	0	11.84	11.75	56.00	0	0	7.62	7.51	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		89.57	ppm		0.00000
+5	C27isoai	Target	0	TIC	17.396	17.343	17.437	1.750	384884	219808	3.54154	Auto	45	17.397	Default	0	0	0	0	0	0	9.92	10.32	0.00	98	57.00	0	0	9.92	10.32	70.00	0	0	9.73	9.48	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		248.55	ppm		0.00000
+6	C27aiai	Target	0	TIC	17.482	17.437	17.620	1.890	1869303	989853	17.20053	Auto	56	17.483	Default	0	0	0	0	0	0	13.16	13.21	0.00	99	70.00	0	0	13.16	13.21	57.00	0	0	9.88	9.60	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1119.28	ppm		0.00000
+7	C28isoiso	Target	0	TIC	18.095	18.057	18.137	1.960	60077	30654	0.55280	Auto	67	18.093	Default	0	0	0	0	0	0	9.50	11.40	0.00	91	57.00	0	0	9.50	11.40	56.00	0	0	6.13	6.96	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		23.98	ppm		0.00000
+8	C28isoai	Target	0	TIC	18.196	18.137	18.253	1.990	639465	321866	5.88409	Auto	77	18.197	Default	0	0	0	0	0	0	10.38	10.17	0.00	98	57.00	0	0	10.38	10.17	70.00	0	0	9.14	9.04	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		251.78	ppm		0.00000
+9	C29isoai	Target	0	TIC	19.165	19.120	19.227	2.370	820933	346935	7.55388	Auto	85	19.167	Default	0	0	0	0	0	0	10.31	9.96	0.00	98	57.00	0	0	10.31	9.96	70.00	0	0	9.05	9.09	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		271.29	ppm		0.00000
+10	C29aiai	Target	0	TIC	19.299	19.227	19.470	2.540	4698917	1850007	43.23744	Auto	95	19.300	Default	0	0	0	0	0	0	11.88	11.98	0.00	99	70.00	0	0	11.88	11.98	57.00	0	0	9.97	9.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1633.72	ppm		0.00000
+11	C30	Target	0	TIC	21.670	21.593	21.897	3.540	1559171	440454	14.34683	Auto	108	21.677	Default	0	0	0	0	0	0	18.80	17.79	0.00	98	57.00	0	0	18.80	17.79	71.00	0	0	13.94	13.76	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		582.88	ppm		0.00000
+
+[Header]
+Data File Name	E:\PROJECTS\2014-2017-FNR\FNR-Results\2016-caveolin-expression\170118-mlut-cav1-olefins-GCMS\UNK-0010_cavD_18.01.2017_olefins-1-split-10_10.qgd
+Output Date	19/01/2017
+Output Time	16:25:24
+
+[MS Quantitative Results]
+# of IDs	11
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold
+1	C25isoai	Target	0	TIC	16.136	16.097	16.163	1.810	71562	39561	0.70764	Auto	7	16.133	Default	0	0	0	0	0	0	10.07	8.77	0.00	93	57.00	0	0	10.07	8.77	70.00	0	0	9.61	9.21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		10.48	ppm		0.00000
+2	C25aiai	Target	0	TIC	16.194	16.163	16.237	1.900	346993	182323	3.43122	Auto	17	16.197	Default	0	0	0	0	0	0	14.25	14.16	0.00	98	70.00	0	0	14.25	14.16	57.00	0	0	9.88	9.34	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		48.29	ppm		0.00000
+3	C26isoai	Target	0	TIC	16.716	16.670	16.753	1.490	197938	132474	1.95730	Auto	27	16.717	Default	0	0	0	0	0	0	10.54	10.11	0.00	97	57.00	0	0	10.54	10.11	70.00	0	0	9.48	9.72	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		93.43	ppm		0.00000
+4	C27isoiso	Target	0	TIC	17.307	17.277	17.353	1.630	116668	71450	1.15367	Auto	34	17.310	Default	0	0	0	0	0	0	11.84	12.18	0.00	96	57.00	0	0	11.84	12.18	56.00	0	0	7.62	7.74	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		50.39	ppm		0.00000
+5	C27isoai	Target	0	TIC	17.395	17.353	17.437	1.760	340535	193592	3.36736	Auto	45	17.397	Default	0	0	0	0	0	0	9.92	10.09	0.00	98	57.00	0	0	9.92	10.09	70.00	0	0	9.73	9.32	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		136.54	ppm		0.00000
+6	C27aiai	Target	0	TIC	17.482	17.437	17.537	1.870	1605418	856252	15.87510	Auto	56	17.483	Default	0	0	0	0	0	0	13.16	12.89	0.00	98	70.00	0	0	13.16	12.89	57.00	0	0	9.88	9.43	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		603.92	ppm		0.00000
+7	C28isoiso	Target	0	TIC	18.094	18.063	18.133	2.070	60239	29153	0.59567	Auto	67	18.093	Default	0	0	0	0	0	0	9.50	10.56	0.00	90	57.00	0	0	9.50	10.56	56.00	0	0	6.13	7.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		23.05	ppm		0.00000
+8	C28isoai	Target	0	TIC	18.195	18.133	18.243	2.030	593167	292067	5.86550	Auto	77	18.197	Default	0	0	0	0	0	0	10.38	9.82	0.00	98	57.00	0	0	10.38	9.82	70.00	0	0	9.14	9.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		230.89	ppm		0.00000
+9	C29isoai	Target	0	TIC	19.166	19.087	19.220	2.400	759874	316010	7.51398	Auto	86	19.167	Default	0	0	0	0	0	0	10.31	10.34	0.00	98	57.00	0	0	10.31	10.34	70.00	0	0	9.05	9.07	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		335.15	ppm		0.00000
+10	C29aiai	Target	0	TIC	19.295	19.220	19.820	2.740	4357268	1590797	43.08665	Auto	94	19.300	Default	0	0	0	0	0	0	11.88	11.85	0.00	99	70.00	0	0	11.88	11.85	57.00	0	0	9.97	9.42	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1960.59	ppm		0.00000
+11	C30	Target	0	TIC	21.672	21.597	22.387	3.560	1663142	467188	16.44590	Auto	102	21.677	Default	0	0	0	0	0	0	18.80	17.95	0.00	98	57.00	0	0	18.80	17.95	71.00	0	0	13.94	13.57	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		709.05	ppm		0.00000
+
+[Header]
+Data File Name	E:\PROJECTS\2014-2017-FNR\FNR-Results\2016-caveolin-expression\170118-mlut-cav1-olefins-GCMS\UNK-0012_opeA_18.01.2017_olefins-1-split-10_12.qgd
+Output Date	19/01/2017
+Output Time	16:25:31
+
+[MS Quantitative Results]
+# of IDs	11
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold
+1	C25isoai	Target	0	TIC	16.133	16.110	16.163	1.860	62943	33760	0.65516	Auto	6	16.133	Default	0	0	0	0	0	0	10.07	9.57	0.00	93	57.00	0	0	10.07	9.57	70.00	0	0	9.61	10.35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12.15	ppm		0.00000
+2	C25aiai	Target	0	TIC	16.194	16.163	16.507	2.090	363264	174123	3.78116	Auto	17	16.197	Default	0	0	0	0	0	0	14.25	13.93	0.00	98	70.00	0	0	14.25	13.93	57.00	0	0	9.88	9.75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		62.65	ppm		0.00000
+3	C26isoai	Target	0	TIC	16.716	16.677	16.753	1.490	186276	125317	1.93892	Auto	25	16.717	Default	0	0	0	0	0	0	10.54	9.84	0.00	97	57.00	0	0	10.54	9.84	70.00	0	0	9.48	9.97	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		110.21	ppm		0.00000
+4	C27isoiso	Target	0	TIC	17.309	17.277	17.343	1.600	115898	72418	1.20637	Auto	33	17.310	Default	0	0	0	0	0	0	11.84	11.72	0.00	97	57.00	0	0	11.84	11.72	56.00	0	0	7.62	8.09	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		63.69	ppm		0.00000
+5	C27isoai	Target	0	TIC	17.396	17.343	17.440	1.750	305133	174031	3.17609	Auto	44	17.397	Default	0	0	0	0	0	0	9.92	10.37	0.00	97	57.00	0	0	9.92	10.37	70.00	0	0	9.73	9.56	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		153.05	ppm		0.00000
+6	C27aiai	Target	0	TIC	17.483	17.440	17.543	1.770	1659872	936638	17.27738	Auto	55	17.483	Default	0	0	0	0	0	0	13.16	13.07	0.00	99	70.00	0	0	13.16	13.07	57.00	0	0	9.88	9.69	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		823.74	ppm		0.00000
+7	C28isoiso	Target	0	TIC	18.096	18.063	18.133	2.060	51784	25094	0.53901	Auto	65	18.093	Default	0	0	0	0	0	0	9.50	10.69	0.00	90	57.00	0	0	9.50	10.69	56.00	0	0	6.13	6.68	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		18.21	ppm		0.00000
+8	C28isoai	Target	0	TIC	18.197	18.133	18.260	1.980	577692	291814	6.01312	Auto	76	18.197	Default	0	0	0	0	0	0	10.38	10.55	0.00	98	57.00	0	0	10.38	10.55	70.00	0	0	9.14	9.21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		211.76	ppm		0.00000
+9	C29isoai	Target	0	TIC	19.166	19.070	19.233	2.370	640868	270256	6.67071	Auto	87	19.167	Default	0	0	0	0	0	0	10.31	10.04	0.00	98	57.00	0	0	10.31	10.04	70.00	0	0	9.05	9.23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		249.16	ppm		0.00000
+10	C29aiai	Target	0	TIC	19.298	19.233	19.420	2.530	4159892	1647082	43.29973	Auto	98	19.300	Default	0	0	0	0	0	0	11.88	11.86	0.00	99	70.00	0	0	11.88	11.86	57.00	0	0	9.97	9.57	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1518.50	ppm		0.00000
+11	C30	Target	0	TIC	21.672	21.600	21.923	3.590	1483578	412956	15.44236	Auto	107	21.677	Default	0	0	0	0	0	0	18.80	18.01	0.00	98	57.00	0	0	18.80	18.01	71.00	0	0	13.94	13.86	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		524.60	ppm		0.00000
+
+[Header]
+Data File Name	E:\PROJECTS\2014-2017-FNR\FNR-Results\2016-caveolin-expression\170118-mlut-cav1-olefins-GCMS\UNK-0013_opeB_18.01.2017_olefins-1-split-10_13.qgd
+Output Date	19/01/2017
+Output Time	16:25:38
+
+[MS Quantitative Results]
+# of IDs	11
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold
+1	C25isoai	Target	0	TIC	16.134	16.100	16.163	2.050	90015	43902	0.67392	Auto	6	16.133	Default	0	0	0	0	0	0	10.07	9.69	0.00	93	57.00	0	0	10.07	9.69	70.00	0	0	9.61	10.03	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		10.89	ppm		0.00000
+2	C25aiai	Target	0	TIC	16.195	16.163	16.237	1.930	448174	232432	3.35536	Auto	17	16.197	Default	0	0	0	0	0	0	14.25	13.84	0.00	98	70.00	0	0	14.25	13.84	57.00	0	0	9.88	9.70	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		57.64	ppm		0.00000
+3	C26isoai	Target	0	TIC	16.715	16.673	16.747	1.530	244591	159986	1.83119	Auto	25	16.717	Default	0	0	0	0	0	0	10.54	9.85	0.00	97	57.00	0	0	10.54	9.85	70.00	0	0	9.48	9.98	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		149.30	ppm		0.00000
+4	C27isoiso	Target	0	TIC	17.309	17.273	17.353	1.600	172788	107762	1.29362	Auto	33	17.310	Default	0	0	0	0	0	0	11.84	12.37	0.00	97	57.00	0	0	11.84	12.37	56.00	0	0	7.62	7.78	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		100.57	ppm		0.00000
+5	C27isoai	Target	0	TIC	17.394	17.353	17.433	1.810	421185	233226	3.15330	Auto	44	17.397	Default	0	0	0	0	0	0	9.92	9.70	0.00	98	57.00	0	0	9.92	9.70	70.00	0	0	9.73	9.36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		217.65	ppm		0.00000
+6	C27aiai	Target	0	TIC	17.482	17.433	17.553	1.900	2170408	1143542	16.24925	Auto	55	17.483	Default	0	0	0	0	0	0	13.16	13.03	0.00	98	70.00	0	0	13.16	13.03	57.00	0	0	9.88	9.32	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1067.19	ppm		0.00000
+7	C28isoiso	Target	0	TIC	18.096	18.057	18.123	1.980	76803	38862	0.57500	Auto	66	18.093	Default	0	0	0	0	0	0	9.50	10.99	0.00	91	57.00	0	0	9.50	10.99	56.00	0	0	6.13	6.88	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		18.88	ppm		0.00000
+8	C28isoai	Target	0	TIC	18.195	18.123	18.263	2.120	835365	394808	6.25415	Auto	76	18.197	Default	0	0	0	0	0	0	10.38	10.08	0.00	98	57.00	0	0	10.38	10.08	70.00	0	0	9.14	9.15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		191.76	ppm		0.00000
+9	C29isoai	Target	0	TIC	19.168	19.087	19.227	2.450	1079477	441150	8.08175	Auto	88	19.167	Default	0	0	0	0	0	0	10.31	10.13	0.00	98	57.00	0	0	10.31	10.13	70.00	0	0	9.05	8.74	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		366.61	ppm		0.00000
+10	C29aiai	Target	0	TIC	19.300	19.227	19.743	2.630	6220039	2367017	46.56772	Auto	99	19.300	Default	0	0	0	0	0	0	11.88	11.84	0.00	98	70.00	0	0	11.88	11.84	57.00	0	0	9.97	9.37	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2024.66	ppm		0.00000
+11	C30	Target	0	TIC	21.672	21.597	21.787	3.470	1598132	460735	11.96477	Auto	107	21.677	Default	0	0	0	0	0	0	18.80	17.95	0.00	97	57.00	0	0	18.80	17.95	71.00	0	0	13.94	13.56	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		780.09	ppm		0.00000
+
+[Header]
+Data File Name	E:\PROJECTS\2014-2017-FNR\FNR-Results\2016-caveolin-expression\170118-mlut-cav1-olefins-GCMS\UNK-0014_opeC_18.01.2017_olefins-1-split-10_14.qgd
+Output Date	19/01/2017
+Output Time	16:25:46
+
+[MS Quantitative Results]
+# of IDs	11
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold
+1	C25isoai	Target	0	TIC	16.134	16.090	16.160	1.760	74574	42321	0.59218	Auto	4	16.133	Default	0	0	0	0	0	0	10.07	9.24	0.00	93	57.00	0	0	10.07	9.24	70.00	0	0	9.61	9.31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		14.50	ppm		0.00000
+2	C25aiai	Target	0	TIC	16.192	16.160	16.273	1.930	427856	221787	3.39754	Auto	14	16.197	Default	0	0	0	0	0	0	14.25	14.07	0.00	98	70.00	0	0	14.25	14.07	57.00	0	0	9.88	9.35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		76.01	ppm		0.00000
+3	C26isoai	Target	0	TIC	16.714	16.670	16.750	1.540	244140	158398	1.93868	Auto	26	16.717	Default	0	0	0	0	0	0	10.54	10.05	0.00	97	57.00	0	0	10.54	10.05	70.00	0	0	9.48	9.81	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		161.98	ppm		0.00000
+4	C27isoiso	Target	0	TIC	17.309	17.277	17.350	1.730	169345	98036	1.34474	Auto	34	17.310	Default	0	0	0	0	0	0	11.84	12.69	0.00	96	57.00	0	0	11.84	12.69	56.00	0	0	7.62	7.89	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		100.25	ppm		0.00000
+5	C27isoai	Target	0	TIC	17.394	17.350	17.437	1.780	391424	219993	3.10824	Auto	45	17.397	Default	0	0	0	0	0	0	9.92	9.60	0.00	98	57.00	0	0	9.92	9.60	70.00	0	0	9.73	9.64	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		224.97	ppm		0.00000
+6	C27aiai	Target	0	TIC	17.481	17.437	17.547	1.930	2032203	1054675	16.13743	Auto	56	17.483	Default	0	0	0	0	0	0	13.16	12.71	0.00	98	70.00	0	0	13.16	12.71	57.00	0	0	9.88	9.38	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1078.55	ppm		0.00000
+7	C28isoiso	Target	0	TIC	18.096	18.070	18.130	1.840	73219	39755	0.58142	Auto	68	18.093	Default	0	0	0	0	0	0	9.50	10.41	0.00	90	57.00	0	0	9.50	10.41	56.00	0	0	6.13	6.68	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		21.71	ppm		0.00000
+8	C28isoai	Target	0	TIC	18.195	18.130	18.260	2.060	794737	386101	6.31089	Auto	78	18.197	Default	0	0	0	0	0	0	10.38	9.97	0.00	98	57.00	0	0	10.38	9.97	70.00	0	0	9.14	9.14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		210.83	ppm		0.00000
+9	C29isoai	Target	0	TIC	19.165	19.107	19.230	2.430	987969	406844	7.84532	Auto	86	19.167	Default	0	0	0	0	0	0	10.31	10.21	0.00	98	57.00	0	0	10.31	10.21	70.00	0	0	9.05	8.92	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		347.46	ppm		0.00000
+10	C29aiai	Target	0	TIC	19.295	19.230	19.610	2.660	5760064	2162455	45.73983	Auto	95	19.300	Default	0	0	0	0	0	0	11.88	12.04	0.00	99	70.00	0	0	11.88	12.04	57.00	0	0	9.97	9.21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1987.76	ppm		0.00000
+11	C30	Target	0	TIC	21.670	21.600	21.773	3.370	1637572	485404	13.00372	Auto	103	21.677	Default	0	0	0	0	0	0	18.80	17.79	0.00	98	57.00	0	0	18.80	17.79	71.00	0	0	13.94	13.75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		571.50	ppm		0.00000
+
+[Header]
+Data File Name	E:\PROJECTS\2014-2017-FNR\FNR-Results\2016-caveolin-expression\170118-mlut-cav1-olefins-GCMS\UNK-0015_opeD_18.01.2017_olefins-1-split-10_15.qgd
+Output Date	19/01/2017
+Output Time	16:25:53
+
+[MS Quantitative Results]
+# of IDs	11
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold
+1	C25isoai	Target	0	TIC	16.135	16.103	16.163	1.870	93630	50096	0.64203	Auto	4	16.133	Default	0	0	0	0	0	0	10.07	9.79	0.00	93	57.00	0	0	10.07	9.79	70.00	0	0	9.61	9.71	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		11.72	ppm		0.00000
+2	C25aiai	Target	0	TIC	16.194	16.163	16.283	1.950	516664	265217	3.54280	Auto	14	16.197	Default	0	0	0	0	0	0	14.25	13.88	0.00	97	70.00	0	0	14.25	13.88	57.00	0	0	9.88	9.37	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		62.06	ppm		0.00000
+3	C26isoai	Target	0	TIC	16.716	16.673	16.757	1.500	279112	185867	1.91389	Auto	26	16.717	Default	0	0	0	0	0	0	10.54	9.97	0.00	97	57.00	0	0	10.54	9.97	70.00	0	0	9.48	10.30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		138.00	ppm		0.00000
+4	C27isoiso	Target	0	TIC	17.308	17.280	17.350	1.730	187913	108511	1.28853	Auto	33	17.310	Default	0	0	0	0	0	0	11.84	12.05	0.00	97	57.00	0	0	11.84	12.05	56.00	0	0	7.62	7.96	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		80.57	ppm		0.00000
+5	C27isoai	Target	0	TIC	17.395	17.350	17.437	1.820	465107	255475	3.18927	Auto	44	17.397	Default	0	0	0	0	0	0	9.92	10.10	0.00	98	57.00	0	0	9.92	10.10	70.00	0	0	9.73	9.56	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		189.68	ppm		0.00000
+6	C27aiai	Target	0	TIC	17.483	17.437	17.640	1.890	2426055	1280930	16.63562	Auto	55	17.483	Default	0	0	0	0	0	0	13.16	12.85	0.00	98	70.00	0	0	13.16	12.85	57.00	0	0	9.88	9.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		951.04	ppm		0.00000
+7	C28isoiso	Target	0	TIC	18.096	18.060	18.130	1.990	78900	39695	0.54102	Auto	67	18.093	Default	0	0	0	0	0	0	9.50	10.99	0.00	92	57.00	0	0	9.50	10.99	56.00	0	0	6.13	6.98	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		21.40	ppm		0.00000
+8	C28isoai	Target	0	TIC	18.197	18.140	18.257	2.010	908220	451505	6.22772	Auto	77	18.197	Default	0	0	0	0	0	0	10.38	9.95	0.00	98	57.00	0	0	10.38	9.95	70.00	0	0	9.14	8.96	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		243.43	ppm		0.00000
+9	C29isoai	Target	0	TIC	19.166	19.083	19.230	2.480	1162374	468435	7.97048	Auto	84	19.167	Default	0	0	0	0	0	0	10.31	10.10	0.00	98	57.00	0	0	10.31	10.10	70.00	0	0	9.05	9.02	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		296.24	ppm		0.00000
+10	C29aiai	Target	0	TIC	19.300	19.230	19.420	2.690	6683830	2484204	45.83146	Auto	94	19.300	Default	0	0	0	0	0	0	11.88	11.69	0.00	98	70.00	0	0	11.88	11.69	57.00	0	0	9.97	9.11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2058.67	ppm		0.00000
+11	C30	Target	0	TIC	21.674	21.597	21.887	3.380	1781692	526809	12.21718	Auto	108	21.677	Default	0	0	0	0	0	0	18.80	17.73	0.00	97	57.00	0	0	18.80	17.73	71.00	0	0	13.94	13.47	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		721.63	ppm		0.00000
+
+[Header]
+Data File Name	E:\PROJECTS\2014-2017-FNR\FNR-Results\2016-caveolin-expression\170118-mlut-cav1-olefins-GCMS\UNK-0016_cavA_18.01.2017_olefins-1-split-10_16.qgd
+Output Date	19/01/2017
+Output Time	16:26:00
+
+[MS Quantitative Results]
+# of IDs	11
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold
+1	C25isoai	Target	0	TIC	16.136	16.097	16.163	1.850	86448	46698	0.66235	Auto	5	16.133	Default	0	0	0	0	0	0	10.07	9.27	0.00	94	57.00	0	0	10.07	9.27	70.00	0	0	9.61	10.46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		11.16	ppm		0.00000
+2	C25aiai	Target	0	TIC	16.195	16.163	16.260	1.950	430900	221019	3.30149	Auto	15	16.197	Default	0	0	0	0	0	0	14.25	13.86	0.00	98	70.00	0	0	14.25	13.86	57.00	0	0	9.88	9.17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		52.80	ppm		0.00000
+3	C26isoai	Target	0	TIC	16.715	16.667	16.753	1.570	261115	166375	2.00062	Auto	26	16.717	Default	0	0	0	0	0	0	10.54	9.79	0.00	97	57.00	0	0	10.54	9.79	70.00	0	0	9.48	9.79	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		149.96	ppm		0.00000
+4	C27isoiso	Target	0	TIC	17.308	17.273	17.347	1.760	166263	94389	1.27388	Auto	33	17.310	Default	0	0	0	0	0	0	11.84	11.44	0.00	96	57.00	0	0	11.84	11.44	56.00	0	0	7.62	7.84	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		85.08	ppm		0.00000
+5	C27isoai	Target	0	TIC	17.396	17.347	17.437	1.780	446443	250544	3.42057	Auto	44	17.397	Default	0	0	0	0	0	0	9.92	9.99	0.00	97	57.00	0	0	9.92	9.99	70.00	0	0	9.73	9.43	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		225.83	ppm		0.00000
+6	C27aiai	Target	0	TIC	17.480	17.437	17.563	1.870	2096035	1120045	16.05948	Auto	55	17.483	Default	0	0	0	0	0	0	13.16	12.79	0.00	98	70.00	0	0	13.16	12.79	57.00	0	0	9.88	9.23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1009.55	ppm		0.00000
+7	C28isoiso	Target	0	TIC	18.095	18.057	18.143	2.280	88288	38744	0.67645	Auto	67	18.093	Default	0	0	0	0	0	0	9.50	10.96	0.00	92	57.00	0	0	9.50	10.96	56.00	0	0	6.13	6.99	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		18.01	ppm		0.00000
+8	C28isoai	Target	0	TIC	18.195	18.143	18.267	2.000	799961	400223	6.12917	Auto	76	18.197	Default	0	0	0	0	0	0	10.38	10.08	0.00	98	57.00	0	0	10.38	10.08	70.00	0	0	9.14	9.06	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		186.07	ppm		0.00000
+9	C29isoai	Target	0	TIC	19.164	19.090	19.237	2.460	1096362	445664	8.40015	Auto	86	19.167	Default	0	0	0	0	0	0	10.31	9.80	0.00	98	57.00	0	0	10.31	9.80	70.00	0	0	9.05	8.96	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		246.51	ppm		0.00000
+10	C29aiai	Target	0	TIC	19.296	19.237	19.493	2.520	5802300	2303916	44.45628	Auto	96	19.300	Default	0	0	0	0	0	0	11.88	11.86	0.00	98	70.00	0	0	11.88	11.86	57.00	0	0	9.97	9.21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1731.25	ppm		0.00000
+11	C30	Target	0	TIC	21.673	21.600	21.967	3.630	1777584	489170	13.61956	Auto	107	21.677	Default	0	0	0	0	0	0	18.80	17.81	0.00	98	57.00	0	0	18.80	17.81	71.00	0	0	13.94	13.15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		541.72	ppm		0.00000
+
+[Header]
+Data File Name	E:\PROJECTS\2014-2017-FNR\FNR-Results\2016-caveolin-expression\170118-mlut-cav1-olefins-GCMS\UNK-0017_cavB_18.01.2017_olefins-1-split-10_17.qgd
+Output Date	19/01/2017
+Output Time	16:26:07
+
+[MS Quantitative Results]
+# of IDs	11
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold
+1	C25isoai	Target	0	TIC	16.135	16.097	16.163	1.850	80308	43418	0.70758	Auto	5	16.133	Default	0	0	0	0	0	0	10.07	9.04	0.00	92	57.00	0	0	10.07	9.04	70.00	0	0	9.61	8.71	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		10.77	ppm		0.00000
+2	C25aiai	Target	0	TIC	16.195	16.163	16.240	1.930	415728	215251	3.66292	Auto	16	16.197	Default	0	0	0	0	0	0	14.25	13.37	0.00	98	70.00	0	0	14.25	13.37	57.00	0	0	9.88	9.03	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		53.40	ppm		0.00000
+3	C26isoai	Target	0	TIC	16.715	16.680	16.763	1.550	231380	148998	2.03866	Auto	26	16.717	Default	0	0	0	0	0	0	10.54	10.04	0.00	97	57.00	0	0	10.54	10.04	70.00	0	0	9.48	10.11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		153.88	ppm		0.00000
+4	C27isoiso	Target	0	TIC	17.310	17.277	17.350	1.660	126509	76028	1.11465	Auto	34	17.310	Default	0	0	0	0	0	0	11.84	11.92	0.00	97	57.00	0	0	11.84	11.92	56.00	0	0	7.62	7.83	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		78.52	ppm		0.00000
+5	C27isoai	Target	0	TIC	17.396	17.350	17.437	1.750	411051	234292	3.62171	Auto	44	17.397	Default	0	0	0	0	0	0	9.92	9.96	0.00	98	57.00	0	0	9.92	9.96	70.00	0	0	9.73	9.39	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		241.96	ppm		0.00000
+6	C27aiai	Target	0	TIC	17.482	17.437	17.557	1.910	1959301	1024347	17.26312	Auto	56	17.483	Default	0	0	0	0	0	0	13.16	12.78	0.00	98	70.00	0	0	13.16	12.78	57.00	0	0	9.88	9.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1057.88	ppm		0.00000
+7	C28isoiso	Target	0	TIC	18.096	18.067	18.133	1.870	58721	31322	0.51738	Auto	65	18.093	Default	0	0	0	0	0	0	9.50	10.76	0.00	92	57.00	0	0	9.50	10.76	56.00	0	0	6.13	7.04	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		24.98	ppm		0.00000
+8	C28isoai	Target	0	TIC	18.196	18.133	18.263	2.030	675999	332697	5.95613	Auto	76	18.197	Default	0	0	0	0	0	0	10.38	9.93	0.00	98	57.00	0	0	10.38	9.93	70.00	0	0	9.14	9.32	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		265.37	ppm		0.00000
+9	C29isoai	Target	0	TIC	19.164	19.107	19.230	2.450	865574	353907	7.62645	Auto	87	19.167	Default	0	0	0	0	0	0	10.31	10.09	0.00	98	57.00	0	0	10.31	10.09	70.00	0	0	9.05	8.71	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		290.25	ppm		0.00000
+10	C29aiai	Target	0	TIC	19.297	19.230	19.410	2.530	4807610	1897680	42.35916	Auto	97	19.300	Default	0	0	0	0	0	0	11.88	12.01	0.00	98	70.00	0	0	11.88	12.01	57.00	0	0	9.97	9.09	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1556.48	ppm		0.00000
+11	C30	Target	0	TIC	21.675	21.593	21.763	3.570	1717454	480537	15.13224	Auto	103	21.677	Default	0	0	0	0	0	0	18.80	18.15	0.00	98	57.00	0	0	18.80	18.15	71.00	0	0	13.94	13.66	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		588.79	ppm		0.00000
+
+[Header]
+Data File Name	E:\PROJECTS\2014-2017-FNR\FNR-Results\2016-caveolin-expression\170118-mlut-cav1-olefins-GCMS\UNK-0018_cavC_18.01.2017_olefins-1-split-10_18.qgd
+Output Date	19/01/2017
+Output Time	16:26:14
+
+[MS Quantitative Results]
+# of IDs	11
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold
+1	C25isoai	Target	0	TIC	16.132	16.097	16.160	1.940	93496	48183	0.74098	Auto	5	16.133	Default	0	0	0	0	0	0	10.07	9.51	0.00	94	57.00	0	0	10.07	9.51	70.00	0	0	9.61	9.41	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		11.42	ppm		0.00000
+2	C25aiai	Target	0	TIC	16.194	16.160	16.240	1.920	467067	243119	3.70161	Auto	15	16.197	Default	0	0	0	0	0	0	14.25	13.84	0.00	98	70.00	0	0	14.25	13.84	57.00	0	0	9.88	9.09	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		57.63	ppm		0.00000
+3	C26isoai	Target	0	TIC	16.714	16.677	16.760	1.480	249154	168884	1.97460	Auto	26	16.717	Default	0	0	0	0	0	0	10.54	9.58	0.00	97	57.00	0	0	10.54	9.58	70.00	0	0	9.48	10.28	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		89.86	ppm		0.00000
+4	C27isoiso	Target	0	TIC	17.308	17.267	17.357	1.780	157376	88188	1.24724	Auto	35	17.310	Default	0	0	0	0	0	0	11.84	11.41	0.00	96	57.00	0	0	11.84	11.41	56.00	0	0	7.62	7.85	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		46.92	ppm		0.00000
+5	C27isoai	Target	0	TIC	17.395	17.357	17.433	1.790	452636	252390	3.58724	Auto	46	17.397	Default	0	0	0	0	0	0	9.92	9.76	0.00	98	57.00	0	0	9.92	9.76	70.00	0	0	9.73	9.55	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		134.29	ppm		0.00000
+6	C27aiai	Target	0	TIC	17.480	17.433	17.757	1.880	2220484	1180461	17.59782	Auto	57	17.483	Default	0	0	0	0	0	0	13.16	13.04	0.00	98	70.00	0	0	13.16	13.04	57.00	0	0	9.88	9.32	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		628.11	ppm		0.00000
+7	C28isoiso	Target	0	TIC	18.094	18.040	18.130	1.990	68606	34448	0.54372	Auto	65	18.093	Default	0	0	0	0	0	0	9.50	11.24	0.00	91	57.00	0	0	9.50	11.24	56.00	0	0	6.13	6.99	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		25.37	ppm		0.00000
+8	C28isoai	Target	0	TIC	18.193	18.130	18.267	2.020	752317	371866	5.96228	Auto	76	18.197	Default	0	0	0	0	0	0	10.38	9.86	0.00	98	57.00	0	0	10.38	9.86	70.00	0	0	9.14	9.06	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		273.87	ppm		0.00000
+9	C29isoai	Target	0	TIC	19.166	19.070	19.230	2.470	963012	389223	7.63208	Auto	88	19.167	Default	0	0	0	0	0	0	10.31	9.81	0.00	98	57.00	0	0	10.31	9.81	70.00	0	0	9.05	8.88	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		461.98	ppm		0.00000
+10	C29aiai	Target	0	TIC	19.295	19.230	19.660	2.630	5415504	2055863	42.91905	Auto	99	19.300	Default	0	0	0	0	0	0	11.88	11.91	0.00	99	70.00	0	0	11.88	11.91	57.00	0	0	9.97	9.38	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2448.09	ppm		0.00000
+11	C30	Target	0	TIC	21.671	21.570	21.867	3.530	1778296	503676	14.09339	Auto	107	21.677	Default	0	0	0	0	0	0	18.80	18.31	0.00	97	57.00	0	0	18.80	18.31	71.00	0	0	13.94	12.96	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		533.77	ppm		0.00000
+
+[Header]
+Data File Name	E:\PROJECTS\2014-2017-FNR\FNR-Results\2016-caveolin-expression\170118-mlut-cav1-olefins-GCMS\UNK-0019_cavD_18.01.2017_olefins-1-split-10_19.qgd
+Output Date	19/01/2017
+Output Time	16:26:22
+
+[MS Quantitative Results]
+# of IDs	11
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold
+1	C25isoai	Target	0	TIC	16.134	16.103	16.163	1.860	76606	41187	0.67546	Auto	5	16.133	Default	0	0	0	0	0	0	10.07	9.05	0.00	93	57.00	0	0	10.07	9.05	70.00	0	0	9.61	9.24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		11.64	ppm		0.00000
+2	C25aiai	Target	0	TIC	16.194	16.163	16.243	1.910	394292	206712	3.47661	Auto	15	16.197	Default	0	0	0	0	0	0	14.25	13.86	0.00	98	70.00	0	0	14.25	13.86	57.00	0	0	9.88	9.09	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		58.43	ppm		0.00000
+3	C26isoai	Target	0	TIC	16.714	16.670	16.753	1.480	229233	154455	2.02123	Auto	26	16.717	Default	0	0	0	0	0	0	10.54	9.98	0.00	97	57.00	0	0	10.54	9.98	70.00	0	0	9.48	10.23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		153.99	ppm		0.00000
+4	C27isoiso	Target	0	TIC	17.308	17.273	17.343	1.640	129171	78571	1.13895	Auto	34	17.310	Default	0	0	0	0	0	0	11.84	11.91	0.00	96	57.00	0	0	11.84	11.91	56.00	0	0	7.62	7.40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		78.33	ppm		0.00000
+5	C27isoai	Target	0	TIC	17.395	17.350	17.437	1.780	397291	223588	3.50305	Auto	45	17.397	Default	0	0	0	0	0	0	9.92	10.05	0.00	98	57.00	0	0	9.92	10.05	70.00	0	0	9.73	9.52	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		222.92	ppm		0.00000
+6	C27aiai	Target	0	TIC	17.481	17.437	17.637	1.900	1889124	992108	16.65707	Auto	56	17.483	Default	0	0	0	0	0	0	13.16	12.55	0.00	98	70.00	0	0	13.16	12.55	57.00	0	0	9.88	9.09	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		989.13	ppm		0.00000
+7	C28isoiso	Target	0	TIC	18.096	18.053	18.140	2.030	68926	34005	0.60774	Auto	67	18.093	Default	0	0	0	0	0	0	9.50	11.08	0.00	92	57.00	0	0	9.50	11.08	56.00	0	0	6.13	6.80	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		24.50	ppm		0.00000
+8	C28isoai	Target	0	TIC	18.195	18.140	18.243	2.070	689475	332477	6.07934	Auto	77	18.197	Default	0	0	0	0	0	0	10.38	10.16	0.00	98	57.00	0	0	10.38	10.16	70.00	0	0	9.14	8.89	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		239.52	ppm		0.00000
+9	C29isoai	Target	0	TIC	19.165	19.107	19.227	2.430	857612	353410	7.56186	Auto	85	19.167	Default	0	0	0	0	0	0	10.31	9.97	0.00	98	57.00	0	0	10.31	9.97	70.00	0	0	9.05	8.94	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		254.60	ppm		0.00000
+10	C29aiai	Target	0	TIC	19.294	19.227	19.413	2.660	4718084	1775075	41.60099	Auto	94	19.300	Default	0	0	0	0	0	0	11.88	11.79	0.00	98	70.00	0	0	11.88	11.79	57.00	0	0	9.97	9.29	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1654.56	ppm		0.00000
+11	C30	Target	0	TIC	21.672	21.600	22.493	3.640	1891463	519008	16.67769	Auto	105	21.677	Default	0	0	0	0	0	0	18.80	17.67	0.00	98	57.00	0	0	18.80	17.67	71.00	0	0	13.94	13.69	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		705.61	ppm		0.00000
+
