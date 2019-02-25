@@ -3,6 +3,7 @@
 export(readGC)
 importFrom(dplyr,'%>%')
 importFrom(dplyr,as_tibble)
+importFrom(stringr,str_detect)
 importFrom(stringr,str_extract)
 importFrom(stringr,str_remove)
 importFrom(stringr,str_split)

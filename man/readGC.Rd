@@ -4,23 +4,24 @@
 \alias{readGC}
 \title{readGC}
 \usage{
-readGC(file, ncompounds)
+readGC(file, writexl = FALSE)
 }
 \arguments{
-\item{file}{A text file, exported from the Shimadzu GCsolution or GCMS solution. 
+\item{file}{a text file, exported from the Shimadzu GCsolution or GCMS solution. 
 Only the "Compound Quantitative Result" must be clicked when exporting.}
 
-\item{ncompounds}{Integer. Number of compounds, as defined in the compound table. Future versions will 
-detect this automatically.}
+\item{writexl}{logical: write the resulting tibble to xlsx?}
 }
 \value{
 A tibble containing all the information from the exported file.
 The \code{sample} variable contains sample names, generated from the file names 
-(matches word/dot/dash/space from the end of file name and removes the .gcd or .qgd extension).
+(matches word/dot/dash/space from the end of file name and removes the .gcd or .qgd extension). 
+The function tries to detect the number of samples and compounds and prints this information. If the \code{writexl} 
+argument is \code{TRUE}, then an excel file with the data is written to the current directory.
 }
 \description{
 Parser for Shimadzu GCsolution and GCMSsolution data
 }
 \author{
-Ange Angelov
+Angel Angelov
 }
