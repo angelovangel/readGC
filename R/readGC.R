@@ -2,13 +2,14 @@
 #' 
 #' Parser for Shimadzu GCsolution and GCMSsolution data
 #' 
-#' @param asciifile A text file, exported from the Shimadzu GCsolution or GCMS solution. 
+#' @param file A text file, exported from the Shimadzu GCsolution or GCMS solution. 
 #' Only the "Compound Quantitative Result" must be clicked when exporting.
 #' @param ncompounds Integer. Number of compounds, as defined in the compound table. Future versions will 
 #' detect this automatically.
 #' 
 #' @return A tibble containing all the information from the exported file.
-#' The \code{sample} variable contains sample names, generated from the file names (try to avoid spaces when naming the files).
+#' The \code{sample} variable contains sample names, generated from the file names 
+#' (matches word/dot/dash/space from the end of file name and removes the .gcd or .qgd extension).
 #' 
 #' @importFrom stringr str_extract str_remove str_split
 #' @importFrom dplyr as_tibble '%>%'
@@ -20,8 +21,8 @@
 
  #library(tidyverse)
 
- readGC <- function(asciifile, ncompounds) {
-  flines <- readLines(asciifile)
+ readGC <- function(file, ncompounds) {
+  flines <- readLines(file)
   # first remove those tabs at the end #
   flines <- str_remove(flines, "\\t$")
   
