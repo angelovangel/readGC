@@ -19,6 +19,7 @@
 #' @importFrom stringr str_extract str_remove str_split str_detect
 #' @importFrom dplyr as_tibble '%>%'
 #' @importFrom utils read.table
+#' @importFrom crayon '%+%'
 #' 
 #' @author Angel Angelov
 #' 
@@ -33,7 +34,7 @@
   
   #### detect number of samples ####
   n <- as.integer(grep("[Header]", flines, fixed = TRUE) %>% length()) # number of runs 
-  cat(n, " samples were detected...", "\n")
+  cat(crayon::blue$bgWhite(crayon::bold(n), " samples were detected", "\n"))
   ####
   
   # test if I can detect ncompounds
@@ -48,7 +49,7 @@
   }
   
   ncompounds2 <- nIDs[1]
-  cat(ncompounds2, " compounds were detected...", "\n")
+  cat(crayon::blue$bgWhite(crayon::bold(ncompounds2), " compounds per sample were detected", "\n"))
   
   if(length(nIDs) != n) {
     stop("Something went wrong, check that your exported file has the same structure as the examples.")
@@ -91,7 +92,8 @@
       }
     basefilename <- basename(file) %>% str_split(pattern = "\\.") %>% unlist() %>% .[1]
     writexl::write_xlsx(df, path = paste0(basefilename, ".xlsx"))
-    cat(basefilename, ".xlsx was written to current directory", "\n", sep = "")
+    cat(crayon::red$bgWhite(basefilename, ".xlsx", sep = "") %+% 
+        crayon::blue$bgWhite(" was written to current directory", "\n"))
   }
   
   return(as_tibble(df))
